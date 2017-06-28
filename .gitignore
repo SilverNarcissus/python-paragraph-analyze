@@ -2,3 +2,11 @@ pros_cons_classifier.pkl
 reviews_classifier.pkl
 wordNLTK/__pycache__/__init__.cpython-35.pyc
 wordNLTK/__pycache__/analyze.cpython-35.pyc
+
+.idea/misc.xml
+.idea/modules.xml
+.idea/python-paragraph-analyze.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/dictionaries/SilverNarcissus.xml
+.idea/inspectionProfiles/profiles_settings.xml
